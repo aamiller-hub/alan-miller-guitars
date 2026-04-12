@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guitars For Sale</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<h1>Available Guitars</h1>
+<div id="for-sale"></div>
+
+<h1>Previously Sold</h1>
+<div id="sold"></div>
+
+<script>
+async function loadGuitars() {
+  const res = await fetch('/content/guitars/index.json');
+  const guitars = await res.json();
+
+  const forSale = document.getElementById('for-sale');
+  const sold = document.getElementById('sold');
+
+  guitars.forEach(g => {
+    const el = document.createElement('div');
+    el.className = 'guitar';
+
+    el.innerHTML = `
+      <img src="${g.image}" />
+      <h3>${g.name}</h3>
+      <p class="price">${g.price}</p>
+      <p>${g.description}</p>
+      ${g.status === 'sold' ? '<span class="badge">SOLD</span>' : ''}
+    `;
+
+    if (g.status === 'for-sale') {
+      forSale.appendChild(el);
+    } else {
+      sold.appendChild(el);
+    }
+  });
+}
+
+loadGuitars();
+</script>
+
+</body>
+</html>
