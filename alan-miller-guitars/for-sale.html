@@ -36,13 +36,19 @@ async function loadGuitars() {
     const price = getField('price');
     const status = getField('status');
     const description = getField('description');
-    const image = getField('image');
+
+    let image = getField('image');
+
+    // Fix image path for nested deployment
+    if (image && image.startsWith('/images')) {
+      image = '/alan-miller-guitars' + image;
+    }
 
     const el = document.createElement('div');
     el.className = 'guitar';
 
     el.innerHTML = `
-      ${image ? `<img src="/alan-miller-guitars/${image}" alt="${name}">` : ""}
+      ${image ? `<img src="${image}" alt="${name}">` : ""}
       <div>
         <h3>${name}</h3>
         <p class="price">${price}</p>
