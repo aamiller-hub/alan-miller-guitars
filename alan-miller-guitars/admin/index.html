@@ -2,7 +2,16 @@
 <html>
 <head>
   <meta charset="utf-8" />
+  <script>
+    window.CMS_MANUAL_INIT = true;
+  </script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </head>
-<body></body>
+<body>
+<script>
+  CMS.init({
+    config: "/alan-miller-guitars/admin/config.yml"
+  });
+</script>
+</body>
 </html>
