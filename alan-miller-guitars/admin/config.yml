@@ -2,13 +2,13 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "images/uploads"
+media_folder: "alan-miller-guitars/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
   - name: "guitars"
     label: "Guitars"
-    folder: "content/guitars"
+    folder: "alan-miller-guitars/content/guitars"
     create: true
     slug: "{{slug}}"
     fields:
@@ -21,7 +21,7 @@ collections:
 
   - name: "testimonials"
     label: "Testimonials"
-    folder: "content/testimonials"
+    folder: "alan-miller-guitars/content/testimonials"
     create: true
     slug: "{{slug}}"
     fields:
