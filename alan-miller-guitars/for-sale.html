@@ -39,8 +39,8 @@ async function loadGuitars() {
 
     let image = getField('image');
 
-    // Fix image path for nested deployment
-    if (image && image.startsWith('/images')) {
+    // correct path for nested deployment
+    if (image) {
       image = '/alan-miller-guitars' + image;
     }
 
