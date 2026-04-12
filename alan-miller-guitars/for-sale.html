@@ -15,30 +15,39 @@
 
 <script>
 async function loadGuitars() {
-  const res = await fetch('/content/guitars/index.json');
-  const guitars = await res.json();
+  const res = await fetch('https://api.github.com/repos/aamiller-hub/alan-miller-guitars/contents/alan-miller-guitars/content/guitars');
+  const files = await res.json();
 
   const forSale = document.getElementById('for-sale');
   const sold = document.getElementById('sold');
 
-  guitars.forEach(g => {
+  for (const file of files) {
+    if (!file.name.endsWith('.md')) continue;
+
+    const contentRes = await fetch(file.download_url);
+    const text = await contentRes.text();
+
+    const name = (text.match(/name:\s*(.*)/) || [])[1];
+    const price = (text.match(/price:\s*(.*)/) || [])[1];
+    const status = (text.match(/status:\s*(.*)/) || [])[1];
+    const description = (text.match(/description:\s*(.*)/) || [])[1];
+
     const el = document.createElement('div');
     el.className = 'guitar';
 
     el.innerHTML = `
-      <img src="${g.image}" />
-      <h3>${g.name}</h3>
-      <p class="price">${g.price}</p>
-      <p>${g.description}</p>
-      ${g.status === 'sold' ? '<span class="badge">SOLD</span>' : ''}
+      <h3>${name}</h3>
+      <p class="price">${price}</p>
+      <p>${description}</p>
+      ${status === 'sold' ? '<span class="badge">SOLD</span>' : ''}
     `;
 
-    if (g.status === 'for-sale') {
+    if (status === 'for-sale') {
       forSale.appendChild(el);
     } else {
       sold.appendChild(el);
     }
-  });
+  }
 }
 
 loadGuitars();
