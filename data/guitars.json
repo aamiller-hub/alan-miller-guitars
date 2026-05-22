@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Acacia Fanfret Guitar",
+    "price": "£3500",
+    "status": "for-sale",
+    "category": "fanfret-acoustic",
+    "images": [
+      "/images/uploads/acacia-fanfret-1.jpg",
+      "/images/uploads/acacia-fanfret-2.jpg",
+      "/images/uploads/acacia-fanfret-3.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Acacia Blackwood",
+      "neck": "Birdseye Maple",
+      "pickup": "LR Baggs Anthem"
+    },
+    "description": "Built with a Grade AAA Alpine spruce top and Acacia blackwood back and sides, this instrument has a clear, responsive voice with strong projection and a focused low end. The spruce gives the guitar immediacy and articulation under the fingers, while the blackwood adds warmth, complexity and a slightly compressed midrange that keeps the overall response controlled and balanced.\n\nThe result is an instrument that remains articulate across the register, with excellent note separation and a fast, lively attack. It responds particularly well to fingerstyle playing, but retains enough headroom and presence to support a more aggressive touch.\n\nThe Birdseye maple neck, faced with rosewood and paired with a Bocote fingerboard, gives the instrument a distinctive visual character while maintaining a smooth and stable playing feel. Overall, the guitar feels light, resonant and highly responsive.\n"
+  },
+  {
+    "name": "Black Walnut Electric Semi Acoustic",
+    "price": "£1100",
+    "status": "for-sale",
+    "category": "electric",
+    "images": [
+      "/images/uploads/black-walnut-electric-1.jpg",
+      "/images/uploads/black-walnut-electric-2.jpg",
+      "/images/uploads/black-walnut-electric-3.jpg",
+      "/images/uploads/black-walnut-electric-4.jpg"
+    ],
+    "specs": {
+      "body": "American Black Walnut",
+      "neck": "Mahogany",
+      "pickup": "Kent Armstrong pickups",
+      "fingerboard": "Rosewood",
+      "bridge": "Guyker 3 way bridge",
+      "machineheads": "Gotoh machineheads"
+    },
+    "description": "description: |\nBuilt around an American Black Walnut body, this instrument has a warm, focused tonal character with strong sustain and excellent note definition. The walnut gives the guitar a balanced response with a tight low end and a clear, open midrange, while the rosewood fingerboard adds smoothness and warmth to the overall feel and attack.\n\nFitted with WD Music pickups and a Schaller piezo bridge system with twin outputs, the guitar is capable of moving easily between electric and acoustic-style textures, either separately or blended together. The result is a highly versatile instrument with a dynamic and articulate response that remains clear under both clean and driven tones. Schaller M6 machineheads provide precise and stable tuning, completing an instrument designed for expressive playing and tonal flexibility.\n"
+  },
+  {
+    "name": "Bocote Acoustic Guitar",
+    "price": "£2800",
+    "status": "for-sale",
+    "category": "acoustic",
+    "images": [
+      "/images/uploads/bocote-fanfret-1.jpg",
+      "/images/uploads/bocote-fanfret-2.jpg",
+      "/images/uploads/bocote-fanfret-3.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Bocote",
+      "neck": "Black Walnut",
+      "pickup": "LR Baggs HiFi"
+    },
+    "description": "Built with a Grade AAA Alpine spruce top and Bocote back and sides, this instrument has a fast, articulate response with exceptional clarity and a strong, piano-like low end. The Alpine spruce gives the guitar immediacy and dynamic sensitivity under the fingers, while the Bocote adds density, sustain and a rich overtone character that gives single notes and extended chords unusual depth and complexity.\n\nThe result is a highly responsive instrument with excellent note separation and a balanced, controlled voice across the register. Fingerstyle passages remain precise and detailed, while heavier playing retains clarity without becoming harsh or compressed. The Black Walnut neck contributes stability and warmth to the overall response, while the LR Baggs HiFi system preserves the guitar’s natural acoustic character with a clear and dynamic amplified sound.\n"
+  },
+  {
+    "name": "Koa Fanfret Guitar",
+    "price": "£3400",
+    "status": "for-sale",
+    "category": "fanfret-acoustic",
+    "images": [
+      "/images/uploads/koa-fanfret-1.jpg",
+      "/images/uploads/koa-fanfret-2.jpg",
+      "/images/uploads/koa-fanfret-3.jpg",
+      "/images/uploads/koa-fanfret-4.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Hawaiian Koa",
+      "neck": "Birdseye Maple",
+      "pickup": "LR Baggs Anthem"
+    },
+    "description": "Built with Hawaiian koa back and sides and a Grade AAA European spruce top, this instrument has a clear, immediate response with strong projection and a rich, controlled warmth. The European spruce gives the guitar articulation and dynamic range under the fingers, while the koa adds focused mids, natural compression and a complex overtone character that becomes increasingly resonant with playing.\n\nThe result is an articulate and highly responsive instrument with excellent note separation and a balanced voice across the register. Fingerstyle passages retain clarity and precision, while fuller chord voicings remain controlled and musical without excessive brightness. The Birdseye maple neck and Bocote fingerboard give the guitar a smooth, stable playing feel and a distinctive visual character that complements the figured koa body.\n"
+  },
+  {
+    "name": "Maple Electric Semi Acoustic",
+    "price": "£1250",
+    "status": "for-sale",
+    "category": "electric",
+    "images": [
+      "/images/uploads/maple-electric-1.png"
+    ],
+    "specs": {
+      "body": "Maple",
+      "neck": "Maple",
+      "fingerboard": "Rosewood",
+      "pickup": "WD Music pickups",
+      "bridge": "Schaller 3D Bridge",
+      "machineheads": "Schaller M6 machineheads"
+    },
+    "description": "description: |\nBuilt with a maple body and neck, this instrument has a fast, immediate response with strong sustain and exceptional clarity across the register. The maple construction gives the guitar a focused attack and a highly articulate tonal character, while the rosewood fingerboard adds warmth and smoothness that balances the overall response and keeps the upper register controlled and musical.\n\nFitted with WD Music pickups and a Schaller 3D bridge, the guitar delivers a precise and dynamic electric voice with excellent note separation under both clean and driven settings. Chords retain definition and structure even at higher gain levels, while single-note passages remain focused and expressive. Schaller M6 machineheads provide accurate and stable tuning, completing an instrument designed for responsiveness, clarity and reliable performance.\n"
+  },
+  {
+    "name": "Mark Chadwick Signature 12 String",
+    "price": "£2850",
+    "status": "for-sale",
+    "category": "fanfret-acoustic",
+    "images": [
+      "/images/uploads/chadwick-1.jpg",
+      "/images/uploads/chadwick-2.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Flamed Walnut",
+      "neck": "Maple",
+      "pickup": "LR Baggs Anthem SL",
+      "machine_heads": "Baby Gotoh 510"
+    },
+    "description": "This guitar is based on a request from Mark for a guitar that he could play on The Levellers tour bus. He wanted a nice clear loud tone to compete with the noise from the rest of the band and crew on the bus! \n\nMark was pleased with the result and I have since made three more of these 12 strings. People who have subsequently purchased these have been really pleased with the big sound.\n"
+  },
+  {
+    "name": "Rosewood Baritone Harp Guitar",
+    "price": "£3500",
+    "status": "for-sale",
+    "category": "other",
+    "images": [
+      "/images/uploads/rosewood-harp-guitar-1.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Rosewood",
+      "neck": "Rosewood",
+      "pickup": "LR Baggs Anthem"
+    },
+    "description": "Built over several months with many modifications to ensure an instrument that is as easy to play as possible. It has a big bass tone due to it's reshaped larger sized baritone body. I found that having the bass arm as a solid piece rather than an acoustic arm still produced great bass tones to match the central strings and the super treble side.\n\nThe simple pickup system picks up all 22 strings evenly. Not for the faint hearted!\n"
+  },
+  {
+    "name": "Walnut Classical Guitar",
+    "price": "£1800",
+    "status": "for-sale",
+    "category": "acoustic",
+    "images": [
+      "/images/uploads/walnut-classical-1.jpg"
+    ],
+    "specs": {
+      "top": "AAA European Spruce",
+      "back_and_sides": "English Walnut",
+      "neck": "Utile",
+      "fingerboard": "Bubinga"
+    },
+    "description": "Built with English walnut back and sides and a Grade AAA European spruce soundboard, this classical guitar has a clear, balanced voice with strong projection and a warm, refined tonal character. The European spruce gives the instrument immediacy and sensitivity to touch, while the walnut adds focus and clarity across the register, producing a voice that remains articulate without becoming overly bright.\n\nThe guitar responds particularly well to dynamic playing, with excellent separation between voices and a smooth, singing sustain that suits both contemporary and traditional repertoire. The 650mm scale length provides a familiar classical feel under the left hand, while the slightly deeper body helps develop warmth and resonance in the lower register. The Utile neck and Bubinga fingerboard give the instrument a stable, comfortable playing feel, complemented by a Bubinga bridge and bone nut and saddle for efficient transfer of vibration and a responsive overall character.\n"
+  },
+  {
+    "name": "Black Walnut Electric Semi Acoustic",
+    "price": "£1350",
+    "status": "for-sale",
+    "category": "electric",
+    "images": [
+      "/images/uploads/black-walnut-electric-1.png"
+    ],
+    "specs": {
+      "body": "Black Walnut",
+      "neck": "Maple",
+      "pickup": "WD Music pickups"
+    },
+    "description": "American Black Walnut body\nRosewood Fingerboard\nWD Music Pickups\nSchaller Piezo bridge\nTwin outputs\nSchaller M6 machineheads\n"
+  },
+  {
+    "name": "Walnut Acoustic Guitar",
+    "price": "£2600",
+    "status": "for-sale",
+    "category": "acoustic",
+    "images": [
+      "/images/uploads/walnut-fanfret-1.jpg",
+      "/images/uploads/walnut-fanfret-2.jpg",
+      "/images/uploads/walnut-fanfret-3.jpg"
+    ],
+    "specs": {
+      "top": "AAA Alpine Spruce",
+      "back_and_sides": "Flamed Walnut",
+      "neck": "Black Walnut",
+      "pickup": "LR Baggs HiFi"
+    },
+    "description": "Built with a Grade AAA Alpine spruce top and flamed walnut back and sides, this instrument has a clear, immediate response with strong note definition and a warm, focused tonal character. The Alpine spruce gives the guitar speed and articulation under the fingers, while the walnut contributes a dry, controlled low end and an open midrange that keeps the overall voice balanced and highly musical.\n\nThe result is a responsive and articulate instrument with excellent separation across the register and a natural clarity that suits both fingerstyle playing and more dynamic strumming. Chords retain detail and structure even under heavier voicings, while single-note passages remain focused and expressive. The Black Walnut neck adds stability and warmth to the overall response, while the LR Baggs HiFi pickup system captures the guitar’s natural acoustic character with clarity and dynamic range.\n"
+  }
+]

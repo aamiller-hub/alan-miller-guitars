@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Five String Electric Cello",
+    "category": "custom",
+    "images": [
+      "./images/uploads/5-string-electric-cello-1.jpg",
+      "./images/uploads/5-string-electric-cello-2.jpg"
+    ]
+  },
+  {
+    "name": "Six String Tenor Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/6-string-tenor-guitar-1.jpg",
+      "./images/uploads/6-string-tenor-guitar-2.jpg"
+    ]
+  },
+  {
+    "name": "Seven String Acoustic Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/7-string-acoustic-1.jpg",
+      "./images/uploads/7-string-acoustic-2.jpg"
+    ]
+  },
+  {
+    "name": "Acoustic Guitar",
+    "category": "acoustic",
+    "images": [
+      "./images/uploads/acoustic-guitar-1.jpg"
+    ]
+  },
+  {
+    "name": "Baritone Fanfret Guitar",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/baritone-fanfret-1.png"
+    ]
+  },
+  {
+    "name": "Bowed Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/bowed-guitar-1.jpg"
+    ]
+  },
+  {
+    "name": "Two Bowed Guitars",
+    "category": "custom",
+    "images": [
+      "./images/uploads/bowed-guitar-23-1.jpg",
+      "./images/uploads/bowed-guitar-23-2.jpg",
+      "./images/uploads/bowed-guitar-23-3.jpg"
+    ]
+  },
+  {
+    "name": "Classical Guitar GA",
+    "category": "custom",
+    "images": [
+      "./images/uploads/classical-guitar-ga.jpg"
+    ]
+  },
+  {
+    "name": "Cocobolo Fan Fret Guitar",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/cocbolo-fanfret-1.jpg",
+      "./images/uploads/cocbolo-fanfret-2.jpg"
+    ]
+  },
+  {
+    "name": "Electric Double Bass",
+    "category": "custom",
+    "images": [
+      "./images/uploads/double-bass.png"
+    ]
+  },
+  {
+    "name": "Dreadnaught Acoustic Guitar",
+    "category": "acoustic",
+    "images": [
+      "./images/uploads/dreadnaught-acoustic.jpg"
+    ]
+  },
+  {
+    "name": "Electric Guitar",
+    "category": "electric",
+    "images": [
+      "./images/uploads/electric-guitar-1.jpg",
+      "./images/uploads/electric-guitar-2.jpg"
+    ]
+  },
+  {
+    "name": "Electric Harp",
+    "category": "custom",
+    "images": [
+      "./images/uploads/electric-harp.jpg"
+    ]
+  },
+  {
+    "name": "Fan Fret Guitar",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/fanfret-acoustic-1.jpg"
+    ]
+  },
+  {
+    "name": "Fan Fret Acoustic GA",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/fanfret-acoustic-ga.png"
+    ]
+  },
+  {
+    "name": "Left Handed Fan Fret Guitar",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/fanfret-acoustic-lefty-1.jpg"
+    ]
+  },
+  {
+    "name": "Fan Frets With Cutaways",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/fanfret-cutaways.jpg"
+    ]
+  },
+  {
+    "name": "Fan Fret Guitar GC",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/fanfret-guitar-gc-1.jpg"
+    ]
+  },
+  {
+    "name": "Guitar Ukulele",
+    "category": "custom",
+    "images": [
+      "./images/uploads/guitar-ukulele-1.jpg",
+      "./images/uploads/guitar-ukulele-2.jpg"
+    ]
+  },
+  {
+    "name": "Left Handed Harp Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/harp-guitar-lefty-1.jpg"
+    ]
+  },
+  {
+    "name": "Harp Ukulele",
+    "category": "custom",
+    "images": [
+      "./images/uploads/harp-ukulele-1.jpg",
+      "./images/uploads/harp-ukulele-2.jpg"
+    ]
+  },
+  {
+    "name": "Mandocello",
+    "category": "custom",
+    "images": [
+      "./images/uploads/mandocello-1.jpg"
+    ]
+  },
+  {
+    "name": "Mark Chadwick Signature 12 String",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/mark-chadwick-12-1.jpg",
+      "./images/uploads/mark-chadwick-12-2.jpg",
+      "./images/uploads/mark-chadwick-12-3.jpg"
+    ]
+  },
+  {
+    "name": "Nyckelharpa",
+    "category": "custom",
+    "images": [
+      "./images/uploads/nyckelharpa.png"
+    ]
+  },
+  {
+    "name": "Parlour Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/parlour-guitar-1.jpg",
+      "./images/uploads/parlour-guitar-2.jpg"
+    ]
+  },
+  {
+    "name": "Soprano Guitar",
+    "category": "custom",
+    "images": [
+      "./images/uploads/soprano-guitar-1.jpg",
+      "./images/uploads/soprano-guitar-2.jpg"
+    ]
+  },
+  {
+    "name": "Tenor Fanfret Guitar",
+    "category": "fanfret-acoustic",
+    "images": [
+      "./images/uploads/tenor-fanfret-1.jpg"
+    ]
+  },
+  {
+    "name": "Twin Neck Mandolin",
+    "category": "custom",
+    "images": [
+      "./images/uploads/twin-neck-mandolin.png"
+    ]
+  }
+]

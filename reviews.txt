@@ -1,0 +1,325 @@
+---
+name: Mark Chadwick
+band: The Levellers
+instrument: 12 String Fan Fret Guitar
+featured: true
+pull_quote: It sounds big, stays in perfect tune and I've already written a song on it
+
+Alan has just made me a smallish twelve string, I've had it home one day, it sounds big, stays in perfect tune and I've already written a song on it, which was the plan all along. I love it and Alan is pretty damn cool too.
+---
+
+---
+name: Bob Johnson
+band: Steeleye Span
+instrument: Guitar Re Fret
+featured: true
+pull_quote: A marvelous job... A vast improvement in playability and tone.
+
+Thank you Alan for doing a marvelous job of re fretting my battered, ancient Schecter Strat. Nearly thirty years of use and abuse under all manner of extreme conditions had left it tired and neglected. I decided to replace the frets with new, higher ones for easier string-bending. Alan did it superbly and straightened the neck as well. A vast improvement in playability and tone. It is reassuring to know that there are still craftsmen in the world.
+---
+
+---
+name: Sam Kelly
+band: Sam Kelly & The Lost Boys
+instrument: Baritone Guitar
+instrument: Guitar Re Fret
+featured: true
+pull_quote: The dedication and love Alan puts into his craft is abundantly clear
+
+I own one of Alan’s baritone guitars and have played many of his other instruments. They all have a recognisably rich and resonant tone and are incredibly beautiful to look at. The dedication and love Alan puts into his craft is abundantly clear and I’d recommend his instruments to anyone.
+---
+
+---
+name: Andrew Philips
+band: Grasscut
+instrument: Bowed Guitar
+instrument: Guitar Re Fret
+featured: false
+pull_quote:
+
+The bowed guitar is beautifully made, and well balanced. The intonation is excellent, and nine drone strings lend the instrument’s bright tone a haunting sustain. It’s an instrument to dive into and explore, teasing out its 
+many subtle nuances."
+---
+
+---
+name: Terry Dwyer
+band: 
+instrument: AMG First Order 1978
+featured: false
+pull_quote:
+
+Alan Miller made me a left hand 12 string in 1978 - a lovely instrument that I gigged with for many years. 40 yrs later the old lady was ready for a refurb. I was told in a pub (During a chance meeting) in Crewe that Alan was still making guitars. I contacted Alan who was more than pleased to hear from me. I drove to Glastonbury to drop the guitar off, received a warm welcome, lunch and a tour of the workshop. A couple of weeks later the old Lady arrived looking and playing fantastic. A big thank you to Alan.
+---
+
+---
+name: Andrew
+band: 
+instrument: Birthday Fan Fret Commission
+featured: false
+pull_quote:
+
+Having seen Alan's work at various festivals I was familiar with his work, but hadn't seen quite the right guitar for me. As I had a significant birthday coming up I commissioned Alan to make me a fanfret. A few short weeks later and the instrument was delivered. The resonance is incredible as is the attention to detail. The woods I requested look beautiful. I couldn't ask for a better instrument. Thank you Alan!
+---
+
+---
+name: Giles T
+band: 
+instrument: Classical Guitar Repair
+featured: false
+pull_quote:
+
+“I was lucky enough to come across Alan through an old friend who recommended his skills. My classical guitar (Carbonell Torres, 1957, called La Raquel) had been treated appallingly by its current owner, including significant scratching and a deep burn on the sound board. Don’t ask. Alan gave the guitar a new lease of life – splicing in a triangle of wood to replace the burned section whilst maintaining the decorative features around the body sides – as well as refinishing the whole thing and replacing the frets. As well as the excellent workmanship it was also a pleasure to spend time at Alan’s place in Glastonbury talking through the issues and understanding his technique. If you have any issues with your instrument I would suggest using it as an excuse to meet Alan and to have a day out in Glastonbury!
+---
+
+---
+name: Simon S
+band: 
+instrument: Fan Fret Commission
+featured: false
+pull_quote:
+
+Alan, had my first outing with my beautiful guitar in an amplified situation last night. Anyway there was a great deal of admiration for the look and sound quality. Thank you for creating such wonderful instruments, I feel extremely privileged to own one."
+---
+
+---
+name: Raviv
+band: 
+instrument: Left Handed Electric
+featured: false
+pull_quote:
+
+I just wanted to let you know that the guitar "opened up" and it sounds fabulous!! Absolutely gorgeous - so light yet so "heavy". You are gifted my friend!
+---
+
+---
+name: Bill G
+band: 
+instrument: Baritone Fan Fret Guitar
+featured: false
+pull_quote:
+
+Bought a baritone guitar from Alan at FolkEast and It's a gem!
+---
+
+---
+name: Rob Davis
+band: 
+instrument: Electric Guitar
+featured: false
+pull_quote:
+
+Thanks for the lovely
+guitar which I have been playing for the last hour. The action is good
+and the extra string spacing makes such a difference. In my view you
+fixed the main fault on the Rickenbacker 330/360/620 12s It is
+beautifully built, resonant, the wood is lovely and it looks great. It
+seems to hold tune well and it is really easy to tune. First impressions are
+the sound is fantastic - I particularly like the bridge pickup. It’s a cliche
+but it really does sound like church bells. I am also finding the neck
+pickup less dark and a bit more usable than the 330 I used to own. I am
+not sure how to get the best out of the piezo yet. (I have never used one)
+---
+
+---
+name: Gary Lieberman
+band: 
+instrument: Fan Fret Guitar
+featured: false
+pull_quote:
+
+When my wife and I went to England this May, I did not even think about buying a new guitar. Nevertheless, our visit to the Chippenham Folk Festival changed all that. Once I saw Alan’s fanfret guitar, I had to tryit (in part, because it’s left-handed). After just a minute of playing, I was swept off my feet. It plays much more easily than any other guitar I have ever tried and it’s far superior to the ones I’ve been playing for decades; it felt like I had instantly become a better player. I was also impressed that switching from straight frets to fan frets was effortless.
+---
+
+---
+name: Simon
+band: 
+instrument: Telecaster Refit
+featured: false
+pull_quote:
+
+I Have had chance to play all the guitars now and thank you so much for your fantastic efforts. The Redwood Telecaster is now an outstanding guitar after your masterful meddling. Thanks again and hope to see you
+next year for another refit.
+---
+
+---
+name: Count Zero
+band: Single Track Forum
+instrument: Forum Praise
+featured: false
+pull_quote:
+
+Alan Miller makes beautiful guitars, and many other musical instruments, of quite startling variety: I’ve spoken to him at some considerable length, and he is very accommodating when it comes to discussing what the future owner wants from the instrument. He does a lot of fan-fretted guitars, and his daughter's band feature his guitars and a cello. He reckons the average price for a guitar is between £2-3k, and they
+are truly beautiful. His Facebook page is worth looking at because he posts photos during the building process. He often posts videos of the band playing his instruments live as well, and I’ve seen them being played as well, they sound superb. Hannah plays one of her dad’s guitars, she also plays cello, and another band member plays Alan’s guitars as well.
+---
+
+---
+name: Ruth
+band: 
+instrument: Harp Ukulele
+featured: false
+pull_quote:
+
+From my first contact with Alan, he was very helpful and we discussed what I was looking for in a harp ukulele. He designed an instrument that met my requirements kept me informed of his processes. I felt very involved in the process. I had not seen an instrument being built before and I loved seeing
+all the photographs of the process and found it totally fascinating. The harp ukulele is a beautiful instrument and well made. It has a beautiful tone. The concert size is perfect for me. I am so enjoying playing it. It sounds amazing. Thank you so much Alan for making a beautiful instrument. I am going to really treasure it and get a lot of joy from it. Alan was so helpful and has amazing craftsmanship in his work.
+I am very happy to recommend him.
+---
+
+---
+name: Spencer
+band: 
+instrument: Semi Acoustic Guitar
+featured: false
+pull_quote:
+
+Beyond pleased with my small bodied semi-acoustic electric guitar - spot on, 10/10, instrument really well made
+---
+
+---
+name: Nigel Ollis
+band: 
+instrument: Two Fan Frets
+featured: false
+pull_quote:
+
+I have a "New Faithful" recently purchased from @AMillerGuitars now I realise that to play your best, you need the best. 
+2nd Fan Fret! - Even better than anticipated; surely the best sound you could possibly obtain from a guitar.
+---
+
+---
+name: Kate
+band: 
+instrument: Dulcimer
+featured: false
+pull_quote:
+
+Hi Alan - I am so thrilled with my dulcimer, it's fantastic. I was really nervous about having such a beautiful instrument, being such a beginner, but it is lovely to play and has a lovely sound even at my level
+of proficiency. Thank you!
+---
+
+---
+name: Jonathan Pickard
+band: 
+instrument: Harp Guitar
+featured: false
+pull_quote:
+
+Alan is a hidden gem of the luthier world! He can turn his hand to just about anything, any instrument with real imagination and consummate skill. I came to him with a tricky problem on an unusual and complex instrument
+and he took it on with an open mind and a willing creativity, where several other luthiers had shied away. With perseverance and patience we got a fantastic result. His guitars are unique in that almost every
+one explores a slightly different design and set of features to the last one. He’s a lovely bloke too and I can’t wait to see what he will come up with next!
+---
+
+---
+name: Mario Bugeja
+band: 
+instrument: Bowed Guitar
+featured: false
+pull_quote:
+
+The guitar arrived a couple of days ago and is fantastic. I don't have a lot of experience with a bow, but I will get there. I have been finger picking some classical guitar pieces that I know, the sound is amazing
+especially when tuned to D. The guitar is a wonderful instrument - I can't praise your work enough.
+---
+
+---
+name: Jim Mortimore
+band: Crazy World Of Arthur Brown
+instrument: Double Bass Conversion
+featured: false
+pull_quote:
+
+Alan converted one of my basses to a removable neck bass. This means a 3/4 size instrument can pack down into a square case. Airline friendly double bass travel. The bass actually sounds better since this conversion
+was made. The advantages of having 2 bolts between the neck and the block improve sustain and resonance immensely! Excellent job by Alan Mille
+---
+
+---
+name: Tim Oakes
+band: Founder Guitarist Magazine
+instrument: 12 String Acoustic
+featured: false
+pull_quote:
+
+I have been intrigued by Alan Miller's instruments since being introduced to that magnificent group The Moulettes. I caught up with Alan at this year’s Wickham Festival, where he displayed his fan fret designs, but was drawn to his 12 string maple body 12 string acoustic. This is a stunning instrument, with a tone and clarity that sets it apart from almost every 12 string I have ever played... Play close to the bridge with a pick and it turns into a driving Fylde-like bouzouki! Fingerpick on the neck and you get a shimmering sound, and thrash it with open chords and tuning and it has drive to push a tank! It is a beautiful aesthetic design too, with the minimum of ornamentation drawing attention to the little details like the carved truss rod cover. A magnificent hand built guitar is like a pie made by a master chef - no factory made version would ever even resemble it.
+---
+
+---
+name: Phil Harrison
+band: 
+instrument: Fan Fret Guitar
+featured: false
+pull_quote:
+
+I met Alan at Warwick Folk Festival in 2015, and tried out several of the guitars he had on show. After several visits during the festival I realised I had fallen in love with the AMG fan fret guitar that I nowown. After purchasing the guitar I found there were few adjustments needed and Alan was most helpful in setting it up precisely as I wanted it, demonstrating his dedication to getting it right for you, with his excellent after-sales service. It is a beautiful guitar, well constructed using bird's eye maple, with a distinctive body shape and of course the amazing fan shaped frets. It has a lovely sonorous tone,and always attracts comment and admiration when it appears in public. It can take a 13 gauge string set as well as the 12 gauge that I usually adopt. This adds to the depth of tone, particularly at the bass
+end. I am very pleased with my AMG fan fret guitar!
+---
+
+---
+name: Richard Gonzalez
+band: 
+instrument: Bowed Guitar
+featured: false
+pull_quote:
+
+Can't describe how happy I am with my bowed guitar/ fretted viol amazingness. I personally endorse Alan's craft to the max. Not only skilled, but very decent guy to deal with. He takes tremendous care that all the build details are tidy, and he builds with an attention to sound quality, but also longevity as a working tool and an eye on the environment. Having made instruments myself and some cabinet and carving work
+I have an idea of what I'm looking at and all of Alan Miller's joinery is pukka
+---
+
+---
+name: Daniel Clark
+band: 
+instrument: Bowed Guitar
+featured: false
+pull_quote:
+
+A few years ago I decided to bite the bullet and commission the build of an instrument I’d had stuck in my head for years - an arpeggione. This is a fretted, gut stringed, bowed guitar. Knowing Alan’s work I couldn’t
+think of anyone more suited to build this unusual mix of guitar and cello. Alan was always a pleasure to communicate with. His work was excellent and was very generous with his time and expertise and up for
+the unusual challenges that this instrument bought.I’m glad to say I’m now regularly playing this gorgeous instrument as part of string quartets, for soundtracks and recording sessions, and am always stopped
+by people amazed by the unusual instrument and its stunning sound. Thanks Alan for making a whim a reality!
+---
+
+---
+name: Ollie Austin
+band: Musician, Producer & Moulette
+instrument: Acoustic Guitar
+featured: false
+pull_quote:
+
+Alan Miller is my favourite Instrument maker. He is a true champion for affordable handmade, independent and environmentally conscious guitars. He is astonishingly good value and also very willing to listen and adapt the instrument to your specific needs. He personally presented me my first commission at an album launch I was playing – a lovely gesture as I was able to play with it that night. It was a hard top steel string designed to cope better with all the percussive playing I do. I loved it so much that I have commissioned him to make a customised fan fret for me. To  top it off he is quick to help when any of his instruments need a service after intensive touring – What more could you ask for?  
+---
+
+---
+name: David Williams
+band: Kangaroo Moon, Seize The Day
+instrument: Electro Acoustic Guitar
+featured: false
+pull_quote:
+
+Alan Miller - what a find! Not only did he do an innovative, invisible repair to the head-stock on my Irish bouzouki; he also sold me one of his beautiful, hand-made electro-acoustic narrow-body guitars which is
+an absolute delight to play. Highly recommended!  
+---
+
+---
+name: Esther Rachels
+band: 
+instrument: Nyckelharpa
+featured: false
+pull_quote:
+
+I commissioned Alan Miller to make a nyckelharpa for me and although this was the first time he had made one, I was not disappointed. The instrument is beautiful and is finished to a very high standard. It also sounds wonderful and is a joy to play. In addition, Alan worked with me to make a few minor adjustments, and was interested in my thoughts and opinions on the instrument.  This ensured that I was totally happy with the instrument he had made. I would highly recommend him to anyone. My cello, made by Alan Miller, is beautiful, both in sounds and looks. It is a fantastic piece of work that has changed and developed in sound the more it has been played. I love it so much it has become a part of me. I can't recommend Alan enough.
+---
+
+---
+name: Georgia
+band: 
+instrument: Harp Guitar
+featured: false
+pull_quote:
+
+I first became interested in the harp guitar when I saw the one Alan was making to a Jon Pickard design. After seeing a few of Jon's videos I rashly decided I wanted one just like it - but left handed. The finished instrument is beautifully made, with the additional strings providing a lovely sympathetic ring to the classical guitar centre part. The bass side has been modified to have a great range of sub bass notes  The wooden bars behind the bridge were added to increase the string break angle. The bridge for the super trebles has also been modified by Alan to achieve higher notes and that extra magical ring. The harp guitar has opened up a whole new musical world to my playing.    
+---
+
+
+
+
+
+
+
+

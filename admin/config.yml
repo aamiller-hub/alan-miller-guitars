@@ -1,0 +1,134 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+
+  # =====================
+  # GUITARS
+  # =====================
+
+  - name: "guitars"
+    label: "Guitars"
+    folder: "content/guitars"
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+
+      - { label: "Price", name: "price", widget: "string" }
+
+      - {
+          label: "Status",
+          name: "status",
+          widget: "select",
+          options: ["for-sale", "sold"]
+        }
+
+      - {
+          label: "Category",
+          name: "category",
+          widget: "select",
+          options: ["fanfret-acoustic", "acoustic", "electric", "other"]
+        }
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        field: { label: "Image", name: "image", widget: "image" }
+
+      - label: "Specs"
+        name: "specs"
+        widget: "object"
+        fields:
+          - { label: "Top", name: "top", widget: "string", required: false }
+          - { label: "Back & Sides", name: "back_and_sides", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "string", required: false }
+          - { label: "Neck", name: "neck", widget: "string", required: false }
+          - { label: "Fingerboard", name: "fingerboard", widget: "string", required: false }
+          - { label: "Pickup", name: "pickup", widget: "string", required: false }
+          - { label: "Bridge", name: "bridge", widget: "string", required: false }
+          - { label: "Machine Heads", name: "machine_heads", widget: "string", required: false }
+
+      - {
+          label: "Description",
+          name: "body",
+          widget: "text"
+        }
+
+  # =====================
+  # REVIEWS
+  # =====================
+
+  - name: "reviews"
+    label: "Reviews"
+    folder: "content/reviews"
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+
+      - {
+          label: "Band / Organisation",
+          name: "band",
+          widget: "string",
+          required: false
+        }
+
+      - {
+          label: "Instrument / Work",
+          name: "instrument",
+          widget: "string",
+          required: false
+        }
+
+      - {
+          label: "Featured (show on About page)",
+          name: "featured",
+          widget: "boolean",
+          required: false
+        }
+
+      - {
+          label: "Pull Quote (short version for About page)",
+          name: "pull_quote",
+          widget: "text",
+          required: false
+        }
+
+      - {
+          label: "Full Review",
+          name: "body",
+          widget: "text"
+        }
+        
+          # =====================
+  # COMMISSIONS
+  # =====================
+
+  - name: "commissions"
+    label: "Commissions"
+    folder: "content/commissions"
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+
+      - {
+          label: "Category",
+          name: "category",
+          widget: "select",
+          options: ["custom", "fanfret-acoustic", "acoustic", "electric"]
+        }
+
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        field:
+          { label: "Image", name: "image", widget: "image" }
