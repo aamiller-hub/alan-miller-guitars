@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=/about.html">
+  <title>Alan Miller Guitars</title>
+
+  <script src="https://unpkg.com/netlify-identity-widget@1/build/netlify-identity-widget.js"></script>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+
+    setTimeout(() => {
+      window.location.href = "/about.html";
+    }, 1000);
+  </script>
 </head>
 <body>
 </body>
