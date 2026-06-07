@@ -1,6 +1,6 @@
 ---
 name: Arpeggione Bowed Guitar
-price: "3100"
+price: £3100
 status: for-sale
 category: other
 images:
